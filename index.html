@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stone Paper Scissors Game</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Eater&family=Great+Vibes&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1>Stone Paper Scissors</h1>
+    <div class="choices">
+      <div class="choice" id="rock">
+        <img src="rock.png" alt="rock" />
+      </div>
+      <div class="choice" id="paper">
+        <img src="paper.png" alt="paper"  />
+      </div>
+      <div class="choice" id="scissors">
+        <img src="scissors.png" alt="scissors"  />
+      </div>
+    </div>
+
+    <div class="score-board">
+      <div class="class">
+        <p id="user-score">0</p>
+        <p>You</p>
+      </div>
+      <div class="class">
+        <p id="comp-score">0</p>
+        <p>Comp</p>
+      </div>
+    </div>
+
+    <div class="msg-container">
+      <p id="msg">Play your move</p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
