@@ -4,7 +4,6 @@ This is my first web development project — a **static Amazon homepage clone** 
 
 ## 🔹 Features
 - Amazon-like homepage layout
-- Responsive design using CSS
 - Clean and structured UI
 
 ## 🔹 Tech Stack
