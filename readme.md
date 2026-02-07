@@ -16,4 +16,5 @@ Built to practice webpage structure, layout, and styling using pure HTML and CSS
 
 ---
 
-⚠️ *This project is for educational purposes only. All rights belong to Amazon.*
+👤 **Created by:** Saurabh Dhule
+⚠️ *For learning purposes only.*
