@@ -15,5 +15,5 @@ Built to practice webpage structure, layout, and styling using pure HTML and CSS
 
 ---
 
-👤 **Created by:** Saurabh Mohan Dhule
+👤 **Created by:** Saurabh Mohan Dhule  
 ⚠️ *For learning purposes only.*
